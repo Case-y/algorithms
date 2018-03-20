@@ -1,3 +1,3 @@
 # algorithms
 ---> Practicing interview questions 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+---> DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
